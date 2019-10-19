@@ -19,3 +19,6 @@ Github : [masyoudi](https://github.com/masyoudi)
 
 ## Justin McCarthy
 Github : [Jmccar085](http://github.com/mccar085)
+
+## Ritik Patni
+Github : [ritikpatni](http://github.com/ritikpatni)
