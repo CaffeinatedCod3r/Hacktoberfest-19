@@ -19,3 +19,6 @@ Github : [masyoudi](https://github.com/masyoudi)
 
 ## Justin McCarthy
 Github : [Jmccar085](http://github.com/mccar085)
+
+## Hitendra singh rathore
+Github : [HitendraSinghRathore](https://github.com/HitendraSinghRathore)
