@@ -26,3 +26,6 @@ Github : [HitendraSinghRathore](https://github.com/HitendraSinghRathore)
 ## Ritik Patni
 Github : [ritikpatni](http://github.com/ritikpatni)
 
+## Gaurav Sharma
+Github : [gauravsharma97](https://github.com/gauravsharma97)
+
